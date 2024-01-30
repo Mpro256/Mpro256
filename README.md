@@ -1,13 +1,13 @@
-# 👋🏻 Hey,
+# Howdy!
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# I am Czcx (Mpro256) . 
+# I am Czcx  . 
 ## I am a programmer
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python. Most of my projects are in python. <br>
+
 
 ## My Tech Stack
 
@@ -46,6 +46,4 @@
 
 <br><br><br><br>
 
-# Thank you!
-
-⭐️ 
+# And yeah!
