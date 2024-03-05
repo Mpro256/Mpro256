@@ -1,6 +1,7 @@
 
 ## 👋 Hey, I'm Czcx!
-(aka the Minecraft Mod Nerd)
+#(aka the Minecraft Mod Nerd)
+
 I'm a brainless coder! I love coding a lot (duh!!)! My favorite things to do are to code minecraft mods and play some hypixel skyblock 😆
 
 ### My favorite languages are ... 
