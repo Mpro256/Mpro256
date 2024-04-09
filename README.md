@@ -11,6 +11,7 @@ I'm a brainless coder! I love coding a lot (duh!!)! My favorite things to do are
 - Java 🎮
 - HTML
 - CSS
+- C++ & C#
 - Evrything else thats not assembly 😅
 
 ### The projets I'm most proud of are...
