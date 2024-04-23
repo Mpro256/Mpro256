@@ -9,8 +9,7 @@ I'm a brainless coder! I love coding a lot (duh!!)! My favorite things to do are
 - Python
 - Typescript 💖
 - Java 🎮
-- HTML
-- CSS
+- HTML & CSS
 - C++ & C#
 - Evrything else thats not assembly 😅
 
