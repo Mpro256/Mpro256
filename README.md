@@ -1,8 +1,8 @@
 
-# 👋 Hey, I'm Czcx!
-## (aka the Minecraft Nerd)
+# Yo! My names Czcx!
+## I'm a student and I always love learning something new!
 
-I'm a brainless coder! I love coding a lot (duh!!)! My favorite things to do are to code minecraft mods and play some hypixel skyblock 😆
+My favorite things to do are to code minecraft mods and play some hypixel skyblock! 
 
 ### My favorite languages are ... 
 - Javascript
