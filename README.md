@@ -19,5 +19,5 @@ My favorite things to do are to code minecraft mods and play some hypixel skyblo
 - Built a computer without my house burning down
 - Made a [Simple Google Sign-In App in JS](https://github.com/Mpro256/SimpleGoogleSignIn)
 
-### The one thing I'm most proud of is...
-- I helped stop a massive RAT (Remote Access Token, built to steal Minecraft and Discord Tokens and Session IDs) from infecting innocent players.
+### One thing I'm really interested in is...
+- Cyber Security!
