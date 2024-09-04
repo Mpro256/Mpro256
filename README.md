@@ -20,4 +20,4 @@ My favorite things to do are to code minecraft mods and play some hypixel skyblo
 - Made a [Simple Google Sign-In App in JS](https://github.com/Mpro256/SimpleGoogleSignIn) WITHOUT Firebase!
 
 ### One thing I'm really interested in is...
-- Cyber Security!
+- Processing Payments via Stripe!
