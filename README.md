@@ -4,7 +4,7 @@
 
 My favorite things to do are to code minecraft mods and play some hypixel skyblock! 
 
-### My favorite languages are ... 
+### My most used languages are ... 
 - Javascript
 - Python
 - Typescript 💖
