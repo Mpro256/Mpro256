@@ -14,8 +14,7 @@ My favorite things to do are to code minecraft mods and play some hypixel skyblo
 - Evrything else thats not assembly 😅
 
 ### The projects I'm most proud of are...
-- The Portal I made for [3DPrintify](https://3dprintify.tech)
-- Built my Hyp.Ixel QOL mod for everything Hypixel
+- Created an app on the app store (humen - daily emotion tracker)
 - Built multiple computers without my house burning down
 - Made a [Simple Google Sign-In App in JS](https://github.com/Mpro256/SimpleGoogleSignIn) WITHOUT Firebase!
 
