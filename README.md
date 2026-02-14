@@ -5,7 +5,7 @@
 My favorite things to do are to code minecraft mods and play some hypixel skyblock! 
 
 ### My most used languages are ... 
-- SWIFT AND SWIFT UI!!!!
+- SWIFT AND SWIFT UI !!!!
 - Javascript
 - Typescript 💖
 - Java 🎮
