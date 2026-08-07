@@ -1,5 +1,5 @@
 
-# Hey! My names Czcx!
+# Hey! My names Ben aka czcx!
 ## I'm a student and I always love learning something new!
 
 My favorite things to do are to code minecraft mods and play some hypixel skyblock! 
