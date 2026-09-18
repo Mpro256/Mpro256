@@ -10,7 +10,7 @@ My favorite things to do are to code minecraft mods and play some hypixel skyblo
 - Typescript 💖
 - Java 🎮
 - HTML & CSS
-- C++ & C# (thanks vex v5)
+- barely know it but C (thanks vex v5) pls send help
 - Evrything else thats not assembly 😅
 
 ### The projects I'm most proud of are...
