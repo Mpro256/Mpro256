@@ -1,21 +1,17 @@
 
 # hey! my name is czcx.
-## I'm a student and I always love learning something new!
+# i am the cyber security before it becomes codex security
 
 
-### My most used languages are ... 
-- SWIFT AND SWIFT UI !!!!
-- Javascript
-- Typescript 💖
-- Java 🎮
-- HTML & CSS
+### i speak
+- SWIFT AND SWIFT UI (#1 btw)
+- Javascript & Typescript but we all know which one is better
+- legit on Java for Minecraft mods
+- HTML & CSS obviously
 - barely know it but C (thanks vex v5) pls send help
 - Evrything else thats not assembly 😅
 
-### The projects I'm most proud of are...
-- Created an app on the app store (humen - daily emotion tracker)
-- Built multiple computers without my house burning down
-- Made a [Simple Google Sign-In App in JS](https://github.com/Mpro256/SimpleGoogleSignIn) WITHOUT Firebase!
-
-### One thing I'm really interested in is...
-- Processing Payments via Stripe!
+### wya
+- im either on my free period, in class, or breaking something related to some random launch daemon
+- IF YOU FIND OUT HOW TO ROOT ESCALATE A FREAKING LAUNCH DAEMON YOU BETTER EMAIL ME (daemon@czz.cx)
+- PLEASE TALK TO ME IF YOU LIKE CYBER
